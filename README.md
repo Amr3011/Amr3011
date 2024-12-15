@@ -30,8 +30,8 @@ I’m a frontend developer with a strong focus on building modern, responsive, a
 <a href="https://www.linkedin.com/in/amr-osama/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
 </a>
-<a href="https://t.me/amrosama" target="_blank">
-  <img src="https://img.shields.io/badge/-Telegram-0088CC?style=for-the-badge&logo=Telegram&logoColor=white"/>
+<a href="https://www.upwork.com/freelancers/~your-upwork-id" target="_blank">
+  <img src="https://img.shields.io/badge/-Upwork-6fda44?style=for-the-badge&logo=Upwork&logoColor=white"/>
 </a>
 
 ## GitHub Stats
