@@ -27,10 +27,10 @@ I’m a frontend developer with a strong focus on building modern, responsive, a
 ![DaisyUI](https://img.shields.io/badge/-DaisyUI-05122A?style=flat&logo=daisyui)&nbsp;
 
 ## Professional Links
-<a href="https://www.linkedin.com/in/amr-osama/" target="_blank">
+<a href="https://www.linkedin.com/in/amr-al-fakharany/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
 </a>
-<a href="https://www.upwork.com/freelancers/~your-upwork-id" target="_blank">
+<a href="https://www.upwork.com/freelancers/~014a637709fa0080dd?mp_source=share" target="_blank">
   <img src="https://img.shields.io/badge/-Upwork-6fda44?style=for-the-badge&logo=Upwork&logoColor=white"/>
 </a>
 
