@@ -1,39 +1,50 @@
-# Amr Osama
+<h2 align="center">Amr Osama</h2>
+<h3 align="center">Frontend Developer & MERN Stack Enthusiast</h3>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Developer;Building%20Interactive%20Web%20Applications;Learning%20Every%20Day;Passionate%20About%20React%20and%20Redux;MERN%20Stack%20Developer&font=Fira%20Code&center=true&width=460&height=45&color=94a3b8&vCenter=true&size=22">
+  </a>
+</p>
 
 ## About Me
-I'm a **MERN Stack Developer** passionate about creating smooth, efficient, and user-friendly web applications. I have experience in **React.js**, **Redux**, **Socket.io**, and **Tailwind CSS**.  
-I’m currently focused on building dynamic and scalable projects while continually enhancing my programming skills.  
-
----
+I’m a frontend developer with a strong focus on building modern, responsive, and interactive web applications. I'm passionate about the MERN stack and love creating user-friendly interfaces with React, Tailwind CSS, and DaisyUI.
 
 ## Technical Expertise
 
 ### Core Technologies
-- **JavaScript** ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
-- **React.js** ![React](https://img.shields.io/badge/-React-blue?logo=react)
-- **Node.js** ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js)
-- **Redux** ![Redux](https://img.shields.io/badge/-Redux-purple?logo=redux&logoColor=white)
-- **Socket.io** ![Socket.io](https://img.shields.io/badge/-Socket.io-black?logo=socket.io)
-- **MongoDB** ![MongoDB](https://img.shields.io/badge/-MongoDB-green?logo=mongodb)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 
 ### Development Tools & Practices
-- Git ![Git](https://img.shields.io/badge/-Git-orange?logo=git)
-- GitHub ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)
-- Visual Studio Code ![VS Code](https://img.shields.io/badge/-VS%20Code-blue?logo=visual-studio-code)
-- Tailwind CSS ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-blue?logo=tailwindcss)
-
----
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite&logoColor=6E40C9)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwindcss)&nbsp;
+![DaisyUI](https://img.shields.io/badge/-DaisyUI-05122A?style=flat&logo=daisyui)&nbsp;
 
 ## Professional Links
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amr-al-fakharany/)  
-[![Upwork](https://img.shields.io/badge/-Upwork-green?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~014a637709fa0080dd?mp_source=share)
-
-
----
+<a href="https://www.linkedin.com/in/amr-osama/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+</a>
+<a href="https://t.me/amrosama" target="_blank">
+  <img src="https://img.shields.io/badge/-Telegram-0088CC?style=for-the-badge&logo=Telegram&logoColor=white"/>
+</a>
 
 ## GitHub Stats
-![Amr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amrosama&show_icons=true&theme=dark&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amrosama&layout=compact&theme=dark)
 
----
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmrOsama&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrOsama&layout=compact&langs_count=7&theme=github_dark"/>
+</p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmrOsama&theme=github_dark" />
+</p>
+
+<a href="https://komarev.com/ghpvc/?username=AmrOsama&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=AmrOsama&style=for-the-badge">
+</a>
