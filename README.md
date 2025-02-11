@@ -1,53 +1,57 @@
-<h1 align="center">Amr Osama</h1>
-<h3 align="center" style="font-style: italic;">Creative Frontend Developer | MERN Stack Specialist</h3>
+<h1 align="center" style="color:#0cbaba; font-size: 2.5em;">Amr Osama</h1>
+<h3 align="center" style="font-style: italic; font-size: 1.5em;">Creative Frontend Developer | MERN Stack Specialist</h3>
 
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Engineer;Crafting%20Modern%20Web%20Applications;React%20and%20Redux%20Enthusiast;MERN%20Stack%20Passion;Always%20Learning%20New%20Skills!&font=Fira%20Code&center=true&width=600&height=50&color=0cbaba&vCenter=true&size=20" alt="Typing SVG">
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Engineer;Building%20Modern%20Web%20Experiences;React%20and%20Redux%20Lover;MERN%20Stack%20Enthusiast;Always%20Learning!&font=Fira%20Code&center=true&width=700&height=50&color=0cbaba&vCenter=true&size=20" alt="Typing SVG">
+</p>
 
 ---
 
 ## 🌟 About Me
-I am a **Frontend Developer** who takes pride in designing and building user-friendly, responsive, and modern web applications. I am deeply invested in the **MERN stack** and specialize in creating sleek and efficient user experiences using tools like **React**, **Tailwind CSS**, and **DaisyUI**.  
+I am a **Frontend Developer** passionate about creating **modern, user-friendly, and high-performance web applications**. With a deep expertise in the **MERN stack**, I focus on crafting **sleek UI/UX** using **React, Tailwind CSS, and DaisyUI**. My mission is to **bridge functionality with stunning design**.
 
-📍 **Key Focus Areas**:  
-- Building interactive user interfaces.  
-- Optimizing performance for seamless web experiences.  
-- Continuous learning and skill improvement.  
+🔹 **Core Focus Areas**:
+- **Interactive & responsive UI development**  
+- **Optimizing performance for seamless user experiences**  
+- **Exploring new technologies & best practices**  
 
 ---
 
 ## 🛠️ Skills & Tools
 
-### Frontend Development
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwindcss)&nbsp;
-![DaisyUI](https://img.shields.io/badge/-DaisyUI-05122A?style=flat&logo=daisyui)&nbsp;
+### 🚀 Frontend Development
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/-DaisyUI-FF69B4?style=flat&logo=daisyui&logoColor=white" />
+</p>
 
-### Backend Development
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+### 🛠️ Backend Development
+<p align="center">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+</p>
 
-### Development Tools
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)&nbsp;
+### ⚡ Development Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white" />
+</p>
 
 ---
 
-## 🌐 Professional Links
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amr-al-fakharany/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.upwork.com/freelancers/~014a637709fa0080dd?mp_source=share" target="_blank">
-    <img src="https://img.shields.io/badge/-Upwork-6fda44?style=for-the-badge&logo=Upwork&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white"/>
   </a>
 </p>
 
@@ -67,9 +71,9 @@ I am a **Frontend Developer** who takes pride in designing and building user-fri
 ---
 
 ## 🎯 Fun Fact
-I thrive on challenging myself to **learn something new every day**! Whether it’s a new tech tool or a small design tweak, growth is my ultimate goal.
+💡 I love **challenging myself** to learn new things daily! Whether it's a new JavaScript feature, a CSS trick, or an optimization hack, **growth never stops**!
 
 ---
 
-## 📬 Reach Out!
-Feel free to connect or collaborate. Let’s build something amazing together!
+## 📬 Let’s Connect!
+Want to build something amazing together? **Let’s talk!** 🚀
