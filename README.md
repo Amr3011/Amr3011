@@ -60,16 +60,8 @@ I am a **Frontend Developer** passionate about creating **modern, user-friendly,
 ## 📊 GitHub Highlights
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AmrOsama&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AmrOsama&layout=compact&langs_count=7&theme=radical"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmrOsama&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmrOsama&theme=radical" alt="GitHub Activity Graph">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AmrOsama&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrOsama&layout=compact&langs_count=6&theme=tokyonight"/>
 </p>
 
 ---
