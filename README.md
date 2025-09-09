@@ -54,7 +54,30 @@ I am a **Frontend Developer** passionate about creating **modern, user-friendly,
     <img src="https://img.shields.io/badge/-Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white"/>
   </a>
 </p>
+---
+<!-- Stats and Activity -->
+<!-- Stats and Activity -->
+<details open>
+  <summary><h2>📊 Stats and Activity</h2></summary>
+  <p align="center" >
+&nbsp;
 
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amr3011&theme=redical&hide_border=true&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF" alt="Contribution Graph"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Amr3011&theme=dark" alt="GitHub Streak" />
+</div>
+
+</p>
+  <p align="center" style="display: flex; justify-content: space-between; gap: 200px;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=Amr3011&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr3011&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+    </a>
+  </p>
+</details>
 ---
 
 ## 📊 GitHub Highlights
