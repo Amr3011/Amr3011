@@ -54,7 +54,7 @@ I am a **Frontend Developer** passionate about creating **modern, user-friendly,
     <img src="https://img.shields.io/badge/-Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white"/>
   </a>
 </p>
----
+
 <!-- Stats and Activity -->
 <!-- Stats and Activity -->
 <details open>
@@ -69,7 +69,13 @@ I am a **Frontend Developer** passionate about creating **modern, user-friendly,
 </div>
 
 </p>
-  <p align="center" style="display: flex; justify-content: space-between; gap: 200px;">
+ 
+</details>
+
+
+## 📊 GitHub Highlights
+
+ <p align="center" style="display: flex; justify-content: space-between; gap: 200px;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=Amr3011&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" alt="GitHub Stats" />
     </a>
@@ -77,15 +83,6 @@ I am a **Frontend Developer** passionate about creating **modern, user-friendly,
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr3011&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
     </a>
   </p>
-</details>
----
-
-## 📊 GitHub Highlights
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AmrOsama&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrOsama&layout=compact&langs_count=6&theme=tokyonight"/>
-</p>
 
 ---
 
